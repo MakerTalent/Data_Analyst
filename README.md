@@ -1,7 +1,7 @@
 # Data_Analyst
 
 ## About Us 
-We’re the Sustainable Ecosystem Scaling Core Unit, part of MakerDAO, which is one of the most seasoned & respected Decentralized Finance projects. We work directly for the DAO as a globally distributed team, pioneering the decentralization efforts together. Our research projects are focused on decentralized workforce, work, and capital. The first project, X-Ray, is on tech talent onboarding & retention, and some of the data sources will come from websites like github, various APIs, and also surveys conducted by the SES team. One of the main project objectives is to produce a data-driven model that provides a snapshot of the onboarding funnel with its bottlenecks, and can help guide decisions on addressing these bottlenecks. This is where your skills and expertise come to shine.
+We’re the [Sustainable Ecosystem Scaling](https://ses.makerdao.network/SES-Core-Unit-590120903f2d47f182f6d7d5d69f3916) Core Unit, part of MakerDAO, which is one of the most seasoned & respected Decentralized Finance projects. We work directly for the DAO as a globally distributed team, pioneering the decentralization efforts together. Our research projects are focused on decentralized workforce, work, and capital. The first project, X-Ray, is on tech talent onboarding & retention, and some of the data sources will come from websites like github, various APIs, and also surveys conducted by the SES team. One of the main project objectives is to produce a data-driven model that provides a snapshot of the onboarding funnel with its bottlenecks, and can help guide decisions on addressing these bottlenecks. This is where your skills and expertise come to shine.
 
 ## The Role
 
