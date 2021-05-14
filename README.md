@@ -9,37 +9,37 @@ We’re looking for a blockchain enthusiast that is passionate about working in 
 
 ### What you will do
 Collect, analyze and present DAO-related data that supports the SES strategy and operations, and reflects the progress we’re making towards our goals:
-Co-create the SES research strategy from data POV
-Develop and implement data collecting strategies for each project
-Transform raw data sets into usable information that informs decision making
-Apply mathematical and statistical techniques to extract, analyze and summarize data
-Build and publish relevant analytical reports and dashboards
+* Co-create the SES research strategy from data POV
+* Develop and implement data collecting strategies for each project
+* Transform raw data sets into usable information that informs decision making
+* Apply mathematical and statistical techniques to extract, analyze and summarize data
+* Build and publish relevant analytical reports and dashboards
 As the data analyst, your contributions will be crucial at every step of the research and therefore  require ability to:
-Access various data sources and extract data (data scraping and ingestion)
-Load extracted data into a database or storage platform, cleanse and curate said data for future use (data quality assurance)
-Provision stored data into a form that can be used by front-end analytics products (data wrangling)
-Analyze data to identify and communicate data driven insights (data analytics)
+* Access various data sources and extract data (data scraping and ingestion)
+* Load extracted data into a database or storage platform, cleanse and curate said data for future use (data quality assurance)
+* Provision stored data into a form that can be used by front-end analytics products (data wrangling)
+* Analyze data to identify and communicate data driven insights (data analytics)
 
 ### What you will need
-Strong analytical skills and a "business/ consulting mindset" to interpret the data
-Database systems experience (eg SQL) and data modelling/EDL tools
-Practical experience with data APIs and scraping tools
-Experience with programming language(s) for data wrangling (e.g. python)
-Experience with creating charts, dashboards and exploratory data analysis
+* Strong analytical skills and a "business/ consulting mindset" to interpret the data
+* Database systems experience (eg SQL) and data modelling/EDL tools
+* Practical experience with data APIs and scraping tools
+* Experience with programming language(s) for data wrangling (e.g. python)
+* Experience with creating charts, dashboards and exploratory data analysis
 
 ### About you
-Passionate about decentralized organizations and aligned with the mission of SES
-Clear communicator able to express complex ideas
-Enjoy solving real world problems, working within unchartered territories
-Independent contributor with strong sense of ownership
-Comfortable with working in a distributed team using agile methodologies
+* Passionate about decentralized organizations and aligned with the mission of SES
+* Clear communicator able to express complex ideas
+* Enjoy solving real world problems, working within unchartered territories
+* Independent contributor with strong sense of ownership
+* Comfortable with working in a distributed team using agile methodologies
 
 ## What you will get 
-Be part of an ecosystem that encourages transparency and alignment with open source methodologies and principles
-Contribute to high-impact projects that address some of the core needs of a decentralized protocol 
-Work within a remote and highly collaborative team consisting of diverse experts
-Full-time permanent team member of the Sustainable Ecosystem Scaling core unit
-Competitive compensation that consists of fixed monthly income plus MKR incentive plan vested over a 3-year period 
-Working for a DAO is uncharted territory & we are happy to explore the options for healthcare, pension benefits and related aspects together.
+* Be part of an ecosystem that encourages transparency and alignment with open source methodologies and principles
+* Contribute to high-impact projects that address some of the core needs of a decentralized protocol 
+* Work within a remote and highly collaborative team consisting of diverse experts
+* Full-time permanent team member of the Sustainable Ecosystem Scaling core unit
+* Competitive compensation that consists of fixed monthly income plus MKR incentive plan vested over a 3-year period 
+* Working for a DAO is uncharted territory & we are happy to explore the options for healthcare, pension benefits and related aspects together.
 
 ### How to apply
